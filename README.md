@@ -17,7 +17,8 @@ User-Friendly Design: Organized layout with intuitive navigation to enhance user
 
 #### Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/amazon-prime-dashboard.git
+git clone https://github.com/Souritri004/Amazon-prime-dashboard-power-bi.git
+
 Open the .pbix file in Power BI Desktop.
 Data Source
 The data used in this project is sourced from Amazon Prime's public dataset and has been pre-processed to ensure accuracy and relevance for analysis.
